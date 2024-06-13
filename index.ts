@@ -165,7 +165,7 @@ do {
         
             p1.fuelIncreare() 
         
-            console.log(chalk.blueBright (` \n You increase your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
+            console.log(chalk.blueBright (` \n You regenerate your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
         
         }
     
@@ -252,7 +252,7 @@ do {
         
             p1.fuelIncreare() 
         
-            console.log(chalk.blueBright (` \n You increase your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
+            console.log(chalk.blueBright (` \n You regenerate your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
         
         }
     
@@ -339,7 +339,7 @@ do {
         
             p1.fuelIncreare() 
         
-            console.log(chalk.blueBright (` \n You increase your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
+            console.log(chalk.blueBright (` \n You regenerate your current health & your health is`),`${chalk.yellowBright (p1.health)} \n`);
         
         }
     
